@@ -1,12 +1,32 @@
-## Hi there 👋
+## 📚 BOOKSCAN
+**책**을 읽는 사람을 원합니다. </br>
+**책**을 읽고 질문하고 이를 해결하는 것은 중요합니다. 열심히 **책**으로 공부합니다.
 
-<!--
+</br>
 
-**Here are some ideas to get you started:**
+## 🙌 WE ARE
+### Book Scan
+**책**을 **세밀하게** 봅니다.</br>
+충분한 시간을 가지고 책을 공부합니다.
+</br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Books Can
+**책**은 많은 것을 **해줄 수 있다**고 믿습니다.</br>
+기본 컴퓨터 지식부터 활용까지 많은 것을 얻어갑니다.
+
+</br>
+
+## 📌 RULE
+- 도서 별 스터디 총 인원은 5명입니다
+- 책을 읽으며 생긴 질문과 이에 대한 답변을 찾아 정리합니다
+
+- 매주 한 장을 읽고 분석합니다
+- 매주 한 시간씩 모여 해당 내용에 대해 토론하고 이를 정리하여 올립니다
+- 불참 시 해당 내용을 미리 올려야 하며 3번 이상 지각 및 불참 시 제외됩니다
+
+</br>
+
+## 📕 BOOKS
+| 책 이름 | 상태 | 날짜 |
+| --- | --- | --- |
+| 객체지향의 사실과 오해 | 모집 중 |  |
